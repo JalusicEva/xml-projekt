@@ -1,0 +1,86 @@
+<skladiste>
+    <artikl>
+        <naziv>Stolac drveni</naziv>
+        <sifra>0456721</sifra>
+        <cijena_eur>23,54</cijena_eur>
+        <stanje>dostupno</stanje>
+        <kolicina>8</kolicina>
+    </artikl>
+    <artikl>
+        <naziv>Stolac preklopni</naziv>
+        <sifra>8421597</sifra>
+        <cijena_eur>19,78</cijena_eur>
+        <stanje>dostupno</stanje>
+        <kolicina>17</kolicina>
+    </artikl>
+    <artikl>
+        <naziv>Ukrasna vaza</naziv>
+        <sifra>0942873</sifra>
+        <cijena_eur>11,99</cijena_eur>
+        <stanje>dostupno</stanje>
+        <kolicina>14</kolicina>
+    </artikl>
+    <artikl>
+        <naziv>Pomoćni stolić</naziv>
+        <sifra>5719323</sifra>
+        <cijena_eur>27,08</cijena_eur>
+        <stanje>nedostupno</stanje>
+        <kolicina>0</kolicina>
+    </artikl>
+    <artikl>
+        <naziv>Stolna lampa</naziv>
+        <sifra>8411467</sifra>
+        <cijena_eur>16,05</cijena_eur>
+        <stanje>dostupno</stanje>
+        <kolicina>4</kolicina>
+    </artikl>
+    <artikl>
+        <naziv>Plahta 200x160</naziv>
+        <sifra>2997141</sifra>
+        <cijena_eur>21,99</cijena_eur>
+        <stanje>dostupno</stanje>
+        <kolicina>7</kolicina>
+    </artikl>
+    <artikl>
+        <naziv>Umjetna biljka</naziv>
+        <sifra>3296718</sifra>
+        <cijena_eur>9,98</cijena_eur>
+        <stanje>dostupno</stanje>
+        <kolicina>24</kolicina>
+    </artikl>
+    <artikl>
+        <naziv>Lampa za čitanje</naziv>
+        <sifra>5195367</sifra>
+        <cijena_eur>16,80</cijena_eur>
+        <stanje>nedostupno</stanje>
+        <kolicina>0</kolicina>
+    </artikl>
+    <artikl>
+        <naziv>Polica</naziv>
+        <sifra>8732759</sifra>
+        <cijena_eur>17,13</cijena_eur>
+        <stanje>dostupno</stanje>
+        <kolicina>12</kolicina>
+    </artikl>
+    <artikl>
+        <naziv>Rolo zavjesa</naziv>
+        <sifra>3728426</sifra>
+        <cijena_eur>23,88</cijena_eur>
+        <stanje>dostupno</stanje>
+        <kolicina>18</kolicina>
+    </artikl>
+    <artikl>
+        <naziv>Zidni preklopni stol</naziv>
+        <sifra>4563082</sifra>
+        <cijena_eur>39,68</cijena_eur>
+        <stanje>nedostupno</stanje>
+        <kolicina>0</kolicina>
+    </artikl>
+    <artikl>
+        <naziv>Tava za palačinke</naziv>
+        <sifra>1429872</sifra>
+        <cijena_eur>7,95</cijena_eur>
+        <stanje>dostupno</stanje>
+        <kolicina>6</kolicina>
+    </artikl>
+</skladiste>

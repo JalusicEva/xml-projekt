@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<korisnici>
+    <user>
+        <username>admin</username>
+        <password>1234</password>
+        <ime>Ivan</ime>
+        <prezime>Ivić</prezime>
+        <naziv_razine>administrator</naziv_razine>
+        <razina>1</razina>
+    </user>
+    <user>
+        <username>marko</username>
+        <password>5678</password>
+        <ime>Marko</ime>
+        <prezime>Markić</prezime>
+        <naziv_razine>voditelj</naziv_razine>
+        <razina>2</razina>
+    </user>
+    <user>
+        <username>sanja</username>
+        <password>9012</password>
+        <ime>Sanja</ime>
+        <prezime>Sanjić</prezime>
+        <naziv_razine>zaposlenik</naziv_razine>
+        <razina>3</razina>
+    </user>
+        <user>
+        <username>marija</username>
+        <password>2109</password>
+        <ime>Marija</ime>
+        <prezime>Marić</prezime>
+        <naziv_razine>zaposlenik</naziv_razine>
+        <razina>3</razina>
+    </user>
+
+    <user>
+        <username>luka</username>
+        <password>9876</password>
+        <ime>Luka</ime>
+        <prezime>Lukić</prezime>
+        <naziv_razine>zaposlenik</naziv_razine>
+        <razina>3</razina>
+    </user>
+
+    <user>
+        <username>maja</username>
+        <password>3456</password>
+        <ime>Maja</ime>
+        <prezime>Majić</prezime>
+        <naziv_razine>kupac</naziv_razine>
+        <razina>4</razina>
+    </user>
+    <user>
+        <username>vrcko</username>
+        <password>3578</password>
+        <ime>Vrcko</ime>
+        <prezime>Vrckić</prezime>
+        <naziv_razine>kupac</naziv_razine>
+        <razina>4</razina>
+    </user>
+    <user>
+        <username>tena</username>
+        <password>7411</password>
+        <ime>Tena</ime>
+        <prezime>Tenić</prezime>
+        <naziv_razine>kupac</naziv_razine>
+        <razina>4</razina>
+    </user>
+
+</korisnici>
+
